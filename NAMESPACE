@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(stats,"na.omit","qnorm","pchisq","var")
+importFrom(utils,"edit")
